@@ -5,3 +5,4 @@ Git tracks changes of files
 happy bersiday 
 
 Creating a new branch is quick and simple
+Creating a new branch is quick.
